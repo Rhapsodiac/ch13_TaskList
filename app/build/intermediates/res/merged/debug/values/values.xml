@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/taylo/AndroidStudioProjects/ch13_TaskList/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_task">Add Task</string>
+    <string name="app_name">Task List</string>
+    <string name="btnNewTask">New Task</string>
+    <string name="btnNewTaskText">New Task</string>
+    <string name="btnTaskDone">Submit</string>
+    <string name="btnTaskDoneText">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="chbxCompleted">Completed</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="task_name_hint">Task</string>
+    <string name="task_notes_hint">Notes</string>
+    <string name="tvName">Task</string>
+    <string name="tvNotes">Notes</string>
+    <!-- From: file:/C:/Users/taylo/AndroidStudioProjects/ch13_TaskList/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light">
+    </style>
+</resources>

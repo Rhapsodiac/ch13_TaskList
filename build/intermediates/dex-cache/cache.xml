@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\taylo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\taylo\AndroidStudioProjects\ch13_TaskList\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-41eb505df05a8ccf7eb808b8458cb2ce851df070.jar" />
+    </item>
+    <item
+        jar="C:\Users\taylo\AndroidStudioProjects\ch13_TaskList\app\libs\TabManager.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25b6223c3d4b5b4df1b9f0a35427cc82b0cc890a">
+        <dex dex="C:\Users\taylo\AndroidStudioProjects\ch13_TaskList\app\build\intermediates\pre-dexed\debug\TabManager-b62d90db4ad0109fa29822804152c7191bd1148c.jar" />
+    </item>
+
+</items>
