@@ -104,14 +104,14 @@ public class AddTaskActivity extends Activity implements OnKeyListener {
         String name = etName.getText().toString();
         String notes = etNotes.getText().toString();
 
-        if (name == null || name.equals("")) {
+        if (name.equals(null) || name.equals("")) {
             return;
         }
 
         if (!edit) {
             task = new Task();
         }
-
+        task.setListId(listId);
         task.setName(name);
         task.setNotes(notes);
 
